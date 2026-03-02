@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 # Get number of data points
 n = int(input("Enter number of data points: "))
 
-# Get X and Y data
+# Get X and Y data   Ploting_Graph
 x = []
 y = []
 print("Enter X and Y values:")
